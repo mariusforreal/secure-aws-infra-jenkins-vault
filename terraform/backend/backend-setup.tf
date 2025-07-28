@@ -4,7 +4,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "terraform_state" {
-  bucket = "secure-devops-terraform-state-nortex"  # Name it different
+  bucket = "secure-devops-terraform-state-nortex" # Name it different
   versioning {
     enabled = true
   }
