@@ -48,7 +48,7 @@ Sets up IAM roles for Jenkins and Vault EC2 instances
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/NORTEX0030/secure-aws-infra-jenkins-vault.git
+git clone https://github.com/mariusforreal/secure-aws-infra-jenkins-vault.git
 cd secure-aws-infra-jenkins-vault/terraform
 ```
 2. Initialize Terraform
