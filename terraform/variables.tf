@@ -3,6 +3,6 @@ variable "aws_region" {
 }
 
 variable "key_name" {
-  default = "terraorm-vault"
+  default = "devops237"
 }
 
